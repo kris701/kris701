@@ -3,7 +3,7 @@ Hello there, my name is Kristian Skov and works as a professional programmer and
 Other than programming, i really enjoy Materials Design, Electronics and Map Designing for games.
 Feel free to check out some of my repositories!
 
-Feel free to contact me on ![Steam](https://steamcommunity.com/id/nanotek701/) or add me on Discord (Nanotek#8425)
+Feel free to contact me on [Steam](https://steamcommunity.com/id/nanotek701/) or add me on Discord (Nanotek#8425)
 
 ### Languages i know
 * C (mostly c99)
