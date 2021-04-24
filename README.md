@@ -27,8 +27,8 @@ Feel free to contact me on [Steam](https://steamcommunity.com/id/nanotek701/) or
 <li>MSSQL Server Management Studio</li>
 <li>SoapUI</li>
 <li>Postman</li>
-<li>ANTLR 4</li>
-<li>XNA and Monogame</li>
+<li>ANTLR 4 (C#)</li>
+<li>XNA and Monogame (C#)</li>
 </ul>
 </details>
 
