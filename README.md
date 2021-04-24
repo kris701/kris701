@@ -17,3 +17,7 @@ Feel free to contact me on [Steam](https://steamcommunity.com/id/nanotek701/) or
 ### Map Designing
 * Hammer (HL2 and GMOD)
 * GEM Editor (MOWAS 2)
+
+### CAD Tools
+* Fusion 360
+* EAGLE
