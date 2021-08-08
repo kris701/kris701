@@ -4,6 +4,7 @@ Other than programming, i really enjoy Materials Design, Electronics and Map Des
 Feel free to check out some of my repositories!
 
 Feel free to contact me on [Steam](https://steamcommunity.com/id/nanotek701/) or add me on Discord (Nanotek#8425)
+[![name](https://user-images.githubusercontent.com/22596587/128634283-bc6ee720-8def-449b-aaa4-697e2461ead7.png)](https://www.patreon.com/nanoteksworkshop)
 
 <details>
 <summary>Languages I know</summary>
