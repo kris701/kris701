@@ -12,6 +12,7 @@ Feel free to contact me on [Steam](https://steamcommunity.com/id/nanotek701/) or
 <li>C (mostly c99)</li>
 <li>C++ (Arduino, std)</li>
 <li>C# (.NET)</li>
+<li>Python</li>
 <li>Assembly (6502 or 86x)</li>
 <li>HTML/CSS/JS</li>
 <li>MSSQL and MySQL</li>
@@ -23,8 +24,8 @@ Feel free to contact me on [Steam](https://steamcommunity.com/id/nanotek701/) or
 <ul>
 <li>WPF (C#)</li>
 <li>WinForms (C#)</li>
-<li>ASP.NET (C#)</li>
-<li>Some Azure stuff</li>
+<li>ASP.NET APIs (C#)</li>
+<li>Azure</li>
 <li>MSSQL Server Management Studio</li>
 <li>SoapUI</li>
 <li>Postman</li>
