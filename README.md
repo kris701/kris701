@@ -1,6 +1,8 @@
 # My Profile
 Hello there, my name is Kristian Skov and works as a professional programmer and generally loves to code!
 Other than programming, i really enjoy Materials Design, Electronics and Map Designing for games.
+I also have a lot of experience working with 3D printing, PCB design, wood working etc.
+
 Feel free to check out some of my repositories!
 
 Feel free to contact me on [Steam](https://steamcommunity.com/id/nanotek701/) or add me on Discord (Nanotek#8425)
