@@ -63,7 +63,7 @@ Feel free to check out some of my repositories or contact me!
 </details>
 
 <p align="center">
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=kris701&show_icons=true&count_private=true&theme=jolly">
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris701&theme=jolly">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=kris701&show_icons=true&count_private=true&theme=jolly">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris701&theme=jolly">
 </p>
 
