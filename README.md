@@ -1,4 +1,5 @@
-# My Profile
+![header](https://capsule-render.vercel.app/api?type=wave&color=291b3e&height=120&&text=My%20Profile&fontSize=90&animation=fadeIn&fontColor=ffffff)
+
 Hello there, my name is Kristian Skov and works as a professional programmer and generally loves to code!
 Other than programming, i really enjoy Materials Design, Electronics and Map Designing for games.
 I also have a lot of experience working with 3D printing, PCB design, wood working etc.
@@ -12,6 +13,9 @@ Feel free to check out some of my repositories or contact me!
   <a href="https://www.linkedin.com/in/kristian-johansen-210452185/"> <img height="50" src="https://user-images.githubusercontent.com/22596587/149828148-c854da14-0653-4c42-bb80-4b4b54291c5d.png"> </a>
   <a href="mailto: kris701kj@gmail.com"> <img height="50" src="https://user-images.githubusercontent.com/22596587/149828476-8fae15cf-bc5d-488c-9ee4-48d74655c570.png"> </a>
 </p>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=kris701)
+[![Github](https://img.shields.io/github/followers/kris701?label=Follow&style=social)](https://github.com/kris701)
 
 <details>
 <summary>Languages I know</summary>
@@ -57,3 +61,9 @@ Feel free to check out some of my repositories or contact me!
 <li>EAGLE</li>
 </ul>
 </details>
+
+<p align="center">
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=kris701&show_icons=true&count_private=true&theme=jolly">
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris701&theme=jolly">
+</p>
+
