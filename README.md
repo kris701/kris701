@@ -33,6 +33,7 @@ Feel free to contact me on [Steam](https://steamcommunity.com/id/nanotek701/) or
 <li>Postman</li>
 <li>ANTLR 4 (C#)</li>
 <li>XNA and Monogame (C#)</li>
+<li>Tensorflow (Python)</li>
 </ul>
 </details>
 
