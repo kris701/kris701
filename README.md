@@ -25,7 +25,7 @@ Feel free to check out some of my repositories or contact me!
 <li>Python</li>
 <li>Assembly (6502 or 86x)</li>
 <li>HTML/CSS/JS</li>
-<li>MSSQL and MySQL</li>
+<li>MSSQL, MySQL and Postgres</li>
 </ul>
 </details>
 
