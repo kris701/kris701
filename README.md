@@ -36,7 +36,7 @@ Feel free to check out some of my repositories or contact me!
 <li>WinForms (C#)</li>
 <li>ASP.NET APIs (C#)</li>
 <li>Azure</li>
-<li>MSSQL Server Management Studio</li>
+<li>Visual Studio 2010-2022</li>
 <li>SoapUI</li>
 <li>Postman</li>
 <li>ANTLR 4 (C#)</li>
