@@ -25,6 +25,7 @@ Feel free to check out some of my repositories or contact me!
 <li>Assembly (6502 or 86x)</li>
 <li>HTML/CSS/JS</li>
 <li>SQL (MSSQL, MySQL and Postgres)</li>
+<li>Haskell</li>
 </ul>
 </details>
 
@@ -36,6 +37,7 @@ Feel free to check out some of my repositories or contact me!
 <li>ASP.NET APIs (C#)</li>
 <li>Azure</li>
 <li>Visual Studio 2010-2022</li>
+<li>Visual Studio Extension Development</li>
 <li>SoapUI</li>
 <li>Postman</li>
 <li>ANTLR 4 (C#)</li>
