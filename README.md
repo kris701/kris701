@@ -19,13 +19,14 @@ Feel free to check out some of my repositories or contact me!
 <summary>Languages I know</summary>
 <ul>
 <li>C (mostly c99)</li>
-<li>C++ (Arduino, std)</li>
+<li>C++ (Arduino, CPP11 and up)</li>
 <li>C# (.NET)</li>
 <li>Python</li>
 <li>Assembly (6502 or 86x)</li>
 <li>HTML/CSS/JS</li>
 <li>SQL (MSSQL, MySQL and Postgres)</li>
 <li>Haskell</li>
+<li>R</li>
 </ul>
 </details>
 
