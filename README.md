@@ -42,7 +42,7 @@ Feel free to check out some of my repositories or contact me!
 <li>Postman</li>
 <li>ANTLR 4 (C#)</li>
 <li>XNA and Monogame (C#)</li>
-<li>Tensorflow (Python)</li>
+<li>Tensorflow and Pytorch (Python)</li>
 </ul>
 </details>
 
