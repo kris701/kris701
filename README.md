@@ -51,6 +51,7 @@ Feel free to check out some of my repositories or contact me!
 #### CAD Tools
 ![Static Badg](https://img.shields.io/badge/Fusion--360-66007d)
 ![Static Badg](https://img.shields.io/badge/EAGLE-66007d)
+![Static Badg](https://img.shields.io/badge/Ultimaker--Cura-66007d)
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=kris701&show_icons=true&count_private=true&theme=jolly">
