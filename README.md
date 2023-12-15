@@ -5,63 +5,52 @@ Other than programming, i really enjoy Materials Design, Electronics and Map Des
 I also have a lot of experience working with 3D printing, PCB design, wood working etc.
 
 Feel free to check out some of my repositories or contact me!
-<p align="left">
-  <a href="https://steamcommunity.com/id/nanotek701/"> <img height="50" src="https://user-images.githubusercontent.com/22596587/150757725-0f17435d-8134-4926-97af-8b23064e294f.png"> </a>
-  <a href="https://discordapp.com/users/357126223383494659/"> <img height="50" src="https://user-images.githubusercontent.com/22596587/150757512-3e3a5db3-d477-47a7-9e81-2a2d2e4d88c8.png"> </a>
-  <a href="https://www.linkedin.com/in/kristian-skov-210452185/"> <img height="50" src="https://user-images.githubusercontent.com/22596587/150757647-f1161d77-10b1-4fef-a67b-4b3b7a486d71.png"> </a>
-  <a href="mailto: kris701kj@gmail.com"> <img height="50" src="https://user-images.githubusercontent.com/22596587/150757596-61deb76c-6b2a-4083-bfb9-fd4be1c34f64.png"> </a>
-</p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=kris701)
-[![Github](https://img.shields.io/github/followers/kris701?label=Follow&style=social)](https://github.com/kris701)
+[![Static Badg](https://img.shields.io/badge/Contact-Steam-purple)](https://steamcommunity.com/id/nanotek701/)
+[![Static Badg](https://img.shields.io/badge/Contact-Discord-purple)](https://discordapp.com/users/357126223383494659/)
+[![Static Badg](https://img.shields.io/badge/Contact-LinkedIn-purple)](https://www.linkedin.com/in/kristian-skov-210452185/)
+[![Static Badg](https://img.shields.io/badge/Contact-Email-purple)](kris701kj@gmail.com)
 
-<details>
-<summary>Languages I know</summary>
-<ul>
-<li>C (mostly c99)</li>
-<li>C++ (Arduino, CPP11 and up)</li>
-<li>C# (.NET)</li>
-<li>Python</li>
-<li>Assembly (6502 or 86x)</li>
-<li>HTML/CSS/JS</li>
-<li>SQL (MSSQL, MySQL and Postgres)</li>
-<li>Haskell</li>
-<li>R</li>
-</ul>
-</details>
+#### Languages I Know
+![Static Badg](https://img.shields.io/badge/C-66007d)
+![Static Badg](https://img.shields.io/badge/Cpp-66007d)
+![Static Badg](https://img.shields.io/badge/CSharp-66007d)
+![Static Badg](https://img.shields.io/badge/Python-66007d)
+![Static Badg](https://img.shields.io/badge/6502--Assembly-66007d)
+![Static Badg](https://img.shields.io/badge/x86--Assembly-66007d)
+![Static Badg](https://img.shields.io/badge/HTML-66007d)
+![Static Badg](https://img.shields.io/badge/CSS-66007d)
+![Static Badg](https://img.shields.io/badge/JavaScript-66007d)
+![Static Badg](https://img.shields.io/badge/MSSQL-66007d)
+![Static Badg](https://img.shields.io/badge/MySQL-66007d)
+![Static Badg](https://img.shields.io/badge/PostgresSQL-66007d)
+![Static Badg](https://img.shields.io/badge/Haskell-66007d)
+![Static Badg](https://img.shields.io/badge/R-66007d)
 
-<details>
-<summary>Frameworks and other tools</summary>
-<ul>
-<li>WPF (C#)</li>
-<li>WinForms (C#)</li>
-<li>ASP.NET APIs (C#)</li>
-<li>Azure</li>
-<li>Visual Studio 2010-2022</li>
-<li>Visual Studio Extension Development</li>
-<li>SoapUI</li>
-<li>Postman</li>
-<li>ANTLR 4 (C#)</li>
-<li>XNA and Monogame (C#)</li>
-<li>Tensorflow and Pytorch (Python)</li>
-</ul>
-</details>
+#### Frameworks, Tools and other Skills
+![Static Badg](https://img.shields.io/badge/WPF-66007d)
+![Static Badg](https://img.shields.io/badge/WinForms-66007d)
+![Static Badg](https://img.shields.io/badge/ASP.NET-66007d)
+![Static Badg](https://img.shields.io/badge/Azure-66007d)
+![Static Badg](https://img.shields.io/badge/Visual--Studio-66007d)
+![Static Badg](https://img.shields.io/badge/Visual--Studio--Extension--Development-66007d)
+![Static Badg](https://img.shields.io/badge/SoapUI-66007d)
+![Static Badg](https://img.shields.io/badge/Postman-66007d)
+![Static Badg](https://img.shields.io/badge/ANTLR4-66007d)
+![Static Badg](https://img.shields.io/badge/XNA-66007d)
+![Static Badg](https://img.shields.io/badge/Monogame-66007d)
+![Static Badg](https://img.shields.io/badge/Tensorflow-66007d)
+![Static Badg](https://img.shields.io/badge/Pytorch-66007d)
+![Static Badg](https://img.shields.io/badge/SSH-66007d)
+![Static Badg](https://img.shields.io/badge/PowerShell-66007d)
 
-<details>
-<summary>Map Designing</summary>
-<ul>
-<li>Hammer (HL2 and GMOD)</li>
-<li>GEM Editor (MOWAS 2)</li>
-</ul>
-</details>
+#### Map Designing
+![Static Badg](https://img.shields.io/badge/Valve--Hammer-66007d)
+![Static Badg](https://img.shields.io/badge/GEM--Editor-66007d)
 
-<details>
-<summary>CAD Tools</summary>
-<ul>
-<li>Fusion 360</li>
-<li>EAGLE</li>
-</ul>
-</details>
+#### CAD Tools
+![Static Badg](https://img.shields.io/badge/Fusion--360-66007d)
+![Static Badg](https://img.shields.io/badge/EAGLE-66007d)
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=kris701&show_icons=true&count_private=true&theme=jolly">
