@@ -48,7 +48,7 @@ Feel free to check out some of my repositories or contact me!
 ![Static Badg](https://img.shields.io/badge/Valve--Hammer-66007d)
 ![Static Badg](https://img.shields.io/badge/GEM--Editor-66007d)
 
-#### CAD Tools
+#### CAD Tools and other DIY stuff
 ![Static Badg](https://img.shields.io/badge/Fusion--360-66007d)
 ![Static Badg](https://img.shields.io/badge/EAGLE-66007d)
 ![Static Badg](https://img.shields.io/badge/Ultimaker--Cura-66007d)
