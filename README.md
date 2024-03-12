@@ -10,6 +10,7 @@ Feel free to check out some of my repositories or contact me!
 [![Static Badg](https://img.shields.io/badge/Contact-Discord-purple)](https://discordapp.com/users/357126223383494659/)
 [![Static Badg](https://img.shields.io/badge/Contact-LinkedIn-purple)](https://www.linkedin.com/in/kristian-skov-210452185/)
 [![Static Badg](https://img.shields.io/badge/Contact-Email-purple)](kris701kj@gmail.com)
+[![Static Badg](https://img.shields.io/badge/Contact-Itch.Io-purple)](https://kris701.itch.io/)
 
 #### Languages I Know
 ![Static Badg](https://img.shields.io/badge/C-66007d)
