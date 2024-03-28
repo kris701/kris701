@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=291b3e&height=120&&text=My%20Profile&fontSize=90&animation=fadeIn&fontColor=ffffff)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kris107/count.svg" alt="kris107 :: Visitor's Count" />
+</p>
 
 Hello there, my name is Kristian Skov and works as a professional programmer and generally loves to code!
 Other than programming, i really enjoy Materials Design, Electronics and Map Designing for games.
