@@ -52,6 +52,7 @@ Feel free to check out some of my repositories or contact me!
 ![Static Badg](https://img.shields.io/badge/PowerShell-66007d)
 ![Static Badg](https://img.shields.io/badge/Docker-66007d)
 ![Static Badg](https://img.shields.io/badge/Angular-66007d)
+![Static Badg](https://img.shields.io/badge/PrimeNG-66007d)
 
 #### Map Designing
 ![Static Badg](https://img.shields.io/badge/Valve--Hammer-66007d)
