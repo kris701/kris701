@@ -33,12 +33,11 @@ Feel free to check out some of my repositories or contact me!
 ![Static Badg](https://img.shields.io/badge/R-D8582C?logo=r&style=for-the-badge&logoColor=white)
 
 #### Frameworks, Tools and other Skills
+![Static Badg](https://img.shields.io/badge/Dotnet-D8582C?logo=dotnet&logoColor=white&style=for-the-badge)
 ![Static Badg](https://img.shields.io/badge/WPF-D8582C?style=for-the-badge)
 ![Static Badg](https://img.shields.io/badge/WinForms-D8582C?style=for-the-badge)
 ![Static Badg](https://img.shields.io/badge/ASP.NET-D8582C?style=for-the-badge)
 ![Static Badg](https://img.shields.io/badge/Azure-D8582C?style=for-the-badge)
-![Static Badg](https://img.shields.io/badge/Visual_Studio-D8582C?style=for-the-badge)
-![Static Badg](https://img.shields.io/badge/Visual_Studio_Code-D8582C?style=for-the-badge)
 ![Static Badg](https://img.shields.io/badge/Visual_Studio_Extension_Development-D8582C?style=for-the-badge)
 ![Static Badg](https://img.shields.io/badge/SoapUI-D8582C?style=for-the-badge)
 ![Static Badg](https://img.shields.io/badge/OpenAI-D8582C?logo=openai&style=for-the-badge&logoColor=white)
@@ -54,15 +53,28 @@ Feel free to check out some of my repositories or contact me!
 ![Static Badg](https://img.shields.io/badge/Docker-D8582C?logo=docker&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/Angular-D8582C?logo=angular&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/PrimeNG-D8582C?logo=primeng&style=for-the-badge&logoColor=white)
+![Static Badg](https://img.shields.io/badge/MobaXterm-D8582C?style=for-the-badge)
+
+#### Editors and IDEs
+![Static Badg](https://img.shields.io/badge/Visual_Studio-D8582C?style=for-the-badge)
+![Static Badg](https://img.shields.io/badge/Visual_Studio_Code-D8582C?style=for-the-badge)
+![Static Badg](https://img.shields.io/badge/Notepad++-D8582C?logo=notepadplusplus&logoColor=white&style=for-the-badge)
+![Static Badg](https://img.shields.io/badge/RStudio-D8582C?logo=rstudioide&logoColor=white&style=for-the-badge)
+
+#### Operating Systems
+![Static Badg](https://img.shields.io/badge/Ubuntu_Linux-D8582C?logo=ubuntu&style=for-the-badge&logoColor=white)
+![Static Badg](https://img.shields.io/badge/Debian_Linux-D8582C?logo=debian&style=for-the-badge&logoColor=white)
+![Static Badg](https://img.shields.io/badge/Proxmox-D8582C?logo=proxmox&style=for-the-badge&logoColor=white)
+![Static Badg](https://img.shields.io/badge/Windows-D8582C?style=for-the-badge)
 
 #### Map Designing
-![Static Badg](https://img.shields.io/badge/Valve--Hammer-D8582C?logo=valve&style=for-the-badge&logoColor=white)
-![Static Badg](https://img.shields.io/badge/GEM--Editor-D8582C?style=for-the-badge)
+![Static Badg](https://img.shields.io/badge/Valve_Hammer-D8582C?logo=valve&style=for-the-badge&logoColor=white)
+![Static Badg](https://img.shields.io/badge/GEM_Editor-D8582C?style=for-the-badge)
 
 #### CAD Tools and other DIY stuff
-![Static Badg](https://img.shields.io/badge/Fusion--360-D8582C?logo=autodesk&style=for-the-badge&logoColor=white)
+![Static Badg](https://img.shields.io/badge/Fusion_360-D8582C?logo=autodesk&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/EAGLE-D8582C?logo=autodesk&style=for-the-badge&logoColor=white)
-![Static Badg](https://img.shields.io/badge/Ultimaker--Cura-D8582C?style=for-the-badge)
+![Static Badg](https://img.shields.io/badge/Ultimaker_Cura-D8582C?style=for-the-badge)
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=kris701&show_icons=true&count_private=true&theme=codeSTACKr">
