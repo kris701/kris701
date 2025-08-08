@@ -1,7 +1,4 @@
 ![header](https://github.com/user-attachments/assets/7e9dadfa-fc76-4d43-b4f1-4b446e672e28)
-<p align="center">
-  <img src="https://profile-counter.glitch.me/kris107/count.svg" alt="kris107 :: Visitor's Count" />
-</p>
 
 Hello there, my name is Kristian Skov and works as a professional programmer and generally loves to code!
 Other than programming, i really enjoy Materials Design, Electronics and Map Designing for games.
