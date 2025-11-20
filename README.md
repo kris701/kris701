@@ -29,6 +29,7 @@ Feel free to check out some of my repositories or contact me!
 ![Static Badg](https://img.shields.io/badge/Haskell-D8582C?logo=haskell&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/R-D8582C?logo=r&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/Go-D8582C?logo=go&style=for-the-badge&logoColor=white)
+![Static Badg](https://img.shields.io/badge/PHP-D8582C?logo=php&style=for-the-badge&logoColor=white)
 
 #### Frameworks, Tools and other Skills
 ![Static Badg](https://img.shields.io/badge/Dotnet-D8582C?logo=dotnet&logoColor=white&style=for-the-badge)
