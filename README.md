@@ -74,8 +74,3 @@ Feel free to check out some of my repositories or contact me!
 ![Static Badg](https://img.shields.io/badge/Fusion_360-D8582C?logo=autodesk&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/EAGLE-D8582C?logo=autodesk&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/Ultimaker_Cura-D8582C?style=for-the-badge)
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=kris701&show_icons=true&count_private=true&theme=codeSTACKr">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris701&theme=codeSTACKr&layout=compact&langs_count=10&hide=sas,shell,pddl,makefile">
-</p>
