@@ -52,6 +52,7 @@ Feel free to check out some of my repositories or contact me!
 ![Static Badg](https://img.shields.io/badge/Docker-D8582C?logo=docker&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/Angular-D8582C?logo=angular&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/PrimeNG-D8582C?logo=primeng&style=for-the-badge&logoColor=white)
+![Static Badg](https://img.shields.io/badge/TaigaUI-D8582C?logo=taigaui&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/MobaXterm-D8582C?style=for-the-badge)
 
 #### Editors and IDEs
