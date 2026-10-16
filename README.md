@@ -23,7 +23,7 @@ Feel free to check out some of my repositories or contact me!
 ![Static Badg](https://img.shields.io/badge/CSS-D8582C?logo=css&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/JavaScript-D8582C?logo=javascript&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/TypeScript-D8582C?logo=typescript&style=for-the-badge&logoColor=white)
-![Static Badg](https://img.shields.io/badge/MSSQL-D8582C?style=for-the-badge)
+![Static Badg](https://img.shields.io/badge/SQL_Server-D8582C?logo=sqlserver&style=for-the-badge)
 ![Static Badg](https://img.shields.io/badge/MySQL-D8582C?logo=mysql&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/PostgresSQL-D8582C?logo=postgresql&style=for-the-badge&logoColor=white)
 ![Static Badg](https://img.shields.io/badge/Haskell-D8582C?logo=haskell&style=for-the-badge&logoColor=white)
